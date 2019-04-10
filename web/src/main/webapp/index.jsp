@@ -12,6 +12,7 @@
 </head>
 <body>
   <h1>Automat-IT Example Web Page</h1>
+  <h2>Automat-IT Example Web Page this is my page</h2>
   <p>
     It works! :)
   </p>
